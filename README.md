@@ -1,13 +1,40 @@
 
----
+# 👋 Hi, I'm Cheetah (Menna Shehata) 
 
-- 👋 Hi, I’m Cheetah (Menna Shehata)  
-- 👀 I’m interested in web development, backend development, and exploring the latest trends in technology.  
-- 💻 **Front-end Skills:** HTML, CSS, JavaScript, React.js, jQuery, Bootstrap, responsive design, and version control with Git & GitHub.  
-- 🌱 I’m currently learning backend development with Node.js and enhancing my front-end skills.  
-- 💞️ I’m eager to work on exciting projects that challenge my skills and contribute to meaningful technology solutions.  
-- 🚀 When I'm not coding, I'm always learning something new to expand my skills!  
-- 📫 How to reach me: [Email](mailto:mennashehata2005@gmail.com) 
-- ⚡ Fun fact: I sometimes talk to my code as if it’s a living thing… and it usually listens! My laptop even has a personality—some days it’s in a good mood and cooperates, other days it’s just stubborn and refuses to work with me.
+💻 **Frontend Developer** | 🎓 Faculty of Computers & Information | 🌍 Egypt  
 
 ---
+
+### 🚀 About Me
+- Passionate about **web development** and creating impactful solutions.  
+- Skilled in building responsive, interactive web apps using **React.js**.  
+- Currently learning **Backend Development (Node.js)** to become a full-stack developer.  
+- Member of **IEEE**, where I worked as a **IT Team member** building websites and systems from scratch.  
+- Believe in technology’s power to **change the world** 🌟.  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Vite  
+- **State Management:** Context API, Redux 
+- **Routing:** React Router  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Backend (learning):** Node.js, Express  
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+
+### 🌱 Currently Exploring
+- Full-stack development with **MERN Stack**  
+- Data Analysis fundamentals  
+- Competitive programming & problem-solving  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/menna-shehata)  
+- [GitHub](https://github.com/your-username)  
+
+---
+
+⭐ Always open to collaborations, learning opportunities, and building something impactful together.
