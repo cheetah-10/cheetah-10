@@ -32,8 +32,8 @@
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/menna-shehata)  
-- [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://www.linkedin.com/in/menna-cheetah-fast/)  
+- [GitHub](https://github.com/cheetah-10/)  
 
 ---
 
