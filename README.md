@@ -26,7 +26,6 @@
 
 ### 🌱 Currently Exploring
 - Full-stack development with **MERN Stack**  
-- Data Analysis fundamentals  
 - Competitive programming & problem-solving  
 
 ---
