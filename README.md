@@ -15,12 +15,12 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vite  
+- **Frontend:** HTML, CSS, JavaScript, Typescript, React.js, Next.js, Vite , CRM 
 - **State Management:** Context API, Redux 
-- **Routing:** React Router  
-- **Styling:** Tailwind CSS, Bootstrap  
-- **Backend (learning):** Node.js, Express  
-- **Other Tools:** Git, GitHub, VS Code  
+- **Routing:** React Router, Next.js
+- **Styling:** Tailwind CSS, Bootstrap, MUI, SchadCN 
+- **Backend:** Node.js, Express  
+- **Other Tools:** Git, GitHub, VS Code, Figma, Lighthouse, DevTools  
 
 ---
 
@@ -31,7 +31,8 @@
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/menna-cheetah-fast/)  
+- [LinkedIn](https://www.linkedin.com/in/menna-cheetah-fast/)
+- [Email](mennashehata2005@gmail.com)
 - [GitHub](https://github.com/cheetah-10/)  
 
 ---
