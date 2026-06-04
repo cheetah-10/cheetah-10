@@ -108,4 +108,4 @@ Full-featured e-commerce app with user authentication, product browsing, wishlis
 
 ⭐ **Always open to collaborations, learning opportunities, and building impactful solutions together.**
 
-🎖️ *IEEE IT Team Member | Faculty of Computers & Information*
+🎖️ *IEEE HSB Webmaster | Faculty of Computers & Information*
